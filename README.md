@@ -33,7 +33,7 @@ To install this project locally, follow these steps:
 1. Enter the Manifest URL in the form and click the "Load Manifest" button.
 2. The specified Manifest URL will be loaded, and the image will be displayed in the Mirador Viewer.
 3. To display a sample Manifest, click the "Show me a sample" button.
-4. Use the reset button to clear the form and hide the viewer.
+4. Use the reset button to clear the form.
 
 ## File Structure
 
